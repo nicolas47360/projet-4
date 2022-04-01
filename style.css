@@ -331,7 +331,7 @@ a:hover {
 
 .nav > li {
     float: left;
-    margin: 4px 20px 0 20px;
+    margin: 20px;
     font-size: 16px;
 }
 
@@ -373,7 +373,7 @@ a:hover {
     .site-navigation {
         position: absolute;
         top: 50%;
-        right: 120px;
+        right: 10px;
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
     }
@@ -453,7 +453,7 @@ nav .caret {
 }
 
 .btn {
-    margin: 0 5px 5px 0;
+    margin:  5px 5px 0;
 }
 
 .btn.pull-right {
@@ -522,6 +522,7 @@ button {
 .scrollToTop {
     width: 40px;
     height: 40px;
+    padding: 20px;
     position: fixed;
     bottom: 20px;
     right: 20px;

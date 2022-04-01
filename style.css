@@ -287,6 +287,13 @@ a:hover {
     font-size: 32px;
 }
 
+#bloc-1-hero img
+{
+    width: 100px;
+    height: 100px;    
+}
+
+
 .navbar {
     margin-bottom: 0;
     z-index: 1;
@@ -810,11 +817,11 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("img/dots-bg.webp");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img/lines-h2-bg.webp");
 }
 
 .bg-banniere {
@@ -822,7 +829,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.webp");
 }
 
 @media (max-width: 1024px) {
